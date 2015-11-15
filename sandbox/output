@@ -1,16 +1,6 @@
 OneHundredDoorsTest.java:11: error: cannot find symbol
         assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
-                         ^
-  symbol:   class Door
-  location: class OneHundredDoorsTest
-OneHundredDoorsTest.java:11: error: cannot find symbol
-        assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
-                                ^
-  symbol:   variable Door
-  location: class OneHundredDoorsTest
-OneHundredDoorsTest.java:11: error: cannot find symbol
-        assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
                                             ^
   symbol:   variable oneHundredDoors
   location: class OneHundredDoorsTest
-3 errors
+1 error

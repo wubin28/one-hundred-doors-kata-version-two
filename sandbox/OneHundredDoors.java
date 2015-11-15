@@ -23,9 +23,9 @@ public class OneHundredDoors {
         for (int pass = 1; pass <= amountOfDoorsPassed; pass++) {
             for (int door = 1; door <= amountOfDoorsPassed; door++) {
                 if (door % pass == 0) {
-                    if (DS.C.equals(doorStates.get(door)) {
+                    if (DS.C.equals(doorStates.get(door))) {
                         doorStates.set(door, DS.OPEN);
-                    } else if (DS.OPEN.equals(doorStates.get(door)) {
+                    } else if (DS.OPEN.equals(doorStates.get(door))) {
                         doorStates.set(door, DS.C);
                     }
                 }

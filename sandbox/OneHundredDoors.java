@@ -1,7 +1,7 @@
 
 public class OneHundredDoors {
 
-    public static int answer() {
-        return 42;
+    public Door[] doorStatesAfterPassingDoors(int amountOfDoorsPassed) {
+        return Door.OPEN;
     }
 }

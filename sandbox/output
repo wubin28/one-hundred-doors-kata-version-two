@@ -1,6 +1,8 @@
-OneHundredDoorsTest.java:13: error: cannot find symbol
+OneHundredDoors.java:5: error: incompatible types: Door cannot be converted to Door[]
+        return Door.OPEN;
+                   ^
+OneHundredDoorsTest.java:13: warning: [deprecation] assertEquals(Object[],Object[]) in Assert has been deprecated
         assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
-                                                           ^
-  symbol:   method doorStatesAfterPassingDoors(int)
-  location: variable oneHundredDoors of type OneHundredDoors
+        ^
 1 error
+1 warning

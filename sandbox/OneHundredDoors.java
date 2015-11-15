@@ -11,7 +11,8 @@ public class OneHundredDoors {
             ));
         if (amountOfDoorsPassed == 1) {
             doorStates.set(1, DS.OPEN);
-            return (DS[])doorStates.subList(1, 2).toArray();
+            List<DS> result = doorStates.subList(1, 2);
+            return result.toArray(new DS[result.size()]);
         }
         if (amountOfDoorsPassed == 2) {
             return new DS[]{DS.OPEN, DS.C};

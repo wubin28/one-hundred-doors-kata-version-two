@@ -9,12 +9,14 @@ public class OneHundredDoors {
                 DS.C, 
                 DS.C, DS.C, DS.C
             ));
+
         if (amountOfDoorsPassed == 1) {
             doorStates.set(1, DS.OPEN);
 
             List<DS> result = doorStates.subList(1, 2);
             return result.toArray(new DS[result.size()]);
         }
+
         if (amountOfDoorsPassed == 2) {
             doorStates.set(1, DS.OPEN);
             doorStates.set(2, DS.C);
@@ -22,6 +24,12 @@ public class OneHundredDoors {
             List<DS> result = doorStates.subList(1, 3);
             return result.toArray(new DS[result.size()]);
         }
-        return new DS[]{DS.OPEN, DS.C, DS.C};
+        
+        doorStates.set(1, DS.OPEN);
+        doorStates.set(2, DS.C);
+        doorStates.set(3, DS.C);
+
+        List<DS> result = doorStates.subList(1, 4);
+        return result.toArray(new DS[result.size()]);
     }
 }

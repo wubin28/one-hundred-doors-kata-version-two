@@ -50,7 +50,7 @@ public class OneHundredDoorsTest {
                 DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
                 DS.C, DS.C, DS.C, DS.OPEN, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
                 DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
                 DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C
             }, oneHundredDoors.doorStatesAfterPassingDoors(100));
     }

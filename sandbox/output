@@ -1,6 +1,301 @@
-JUnit version 4.11-SNAPSHOT-20120416-1530
-...
-Time: 0.033
-
-OK (3 tests)
-
+OneHundredDoors.java:10: error: ')' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                                  ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                         ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                    ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                      ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                          ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                            ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                        ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                          ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                              ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                    ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                      ^
+OneHundredDoors.java:11: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                          ^
+OneHundredDoors.java:11: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                            ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                  ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                   ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                    ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                    ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                      ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                          ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                            ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                        ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                          ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                              ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                    ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                      ^
+OneHundredDoors.java:12: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                          ^
+OneHundredDoors.java:12: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                            ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                  ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                   ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                    ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                    ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                      ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                          ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                            ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                        ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                          ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                              ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                    ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                      ^
+OneHundredDoors.java:13: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                          ^
+OneHundredDoors.java:13: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                            ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                  ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                   ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                    ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                    ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                      ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                          ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                            ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                        ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                          ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                              ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                    ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                      ^
+OneHundredDoors.java:14: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                          ^
+OneHundredDoors.java:14: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                            ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                  ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                   ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                    ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                    ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                      ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                          ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                            ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                        ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                          ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                              ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                    ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                      ^
+OneHundredDoors.java:15: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                          ^
+OneHundredDoors.java:15: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                                                                            ^
+OneHundredDoors.java:16: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                  ^
+OneHundredDoors.java:16: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                   ^
+OneHundredDoors.java:16: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                    ^
+OneHundredDoors.java:16: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                        ^
+OneHundredDoors.java:16: error: ';' expected
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                          ^
+OneHundredDoors.java:16: error: not a statement
+                DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
+                              ^
+100 errors

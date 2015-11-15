@@ -18,7 +18,6 @@ public class OneHundredDoors {
                 DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C,
                 DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
             ));
-        List<DS> result = null;
 
         for (int pass = 1; pass <= amountOfDoorsPassed; pass++) {
             for (int door = 1; door <= amountOfDoorsPassed; door++) {
@@ -32,7 +31,7 @@ public class OneHundredDoors {
             }
         }
 
-        result = doorStates.subList(1, amountOfDoorsPassed + 1);
+        List<DS> result = doorStates.subList(1, amountOfDoorsPassed + 1);
         return result.toArray(new DS[amountOfDoorsPassed]);
     }
 }

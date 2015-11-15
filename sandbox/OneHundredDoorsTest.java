@@ -42,16 +42,16 @@ public class OneHundredDoorsTest {
         // Then
         assertArrayEquals(
             new DS[]{
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
-                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C
+                DS.OPEN, DS.C, DS.C, DS.OPEN, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.C, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C
             }, oneHundredDoors.doorStatesAfterPassingDoors(100));
     }
 

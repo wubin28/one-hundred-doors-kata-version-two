@@ -10,7 +10,7 @@ public class OneHundredDoorsTest {
 
         // When
         // Then
-        assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
+        assertArrayEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
     }
 
     // TODO: if_there_are_2_doors_to_pass_the_state_of_doors_should_be_OPEN_CLOSED

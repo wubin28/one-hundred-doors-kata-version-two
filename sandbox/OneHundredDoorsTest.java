@@ -6,6 +6,8 @@ public class OneHundredDoorsTest {
     @Test
     public void if_there_is_only_1_door_to_pass_the_state_of_door_should_be_OPEN() {
         // Given
+        OneHundredDoors oneHundredDoors = new OneHundredDoors();
+
         // When
         // Then
         assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));

@@ -6,10 +6,12 @@ public class OneHundredDoors {
 
     public DS[] doorStatesAfterPassingDoors(int amountOfDoorsPassed) {
         List<DS> doorStates = new ArrayList<DS>(Arrays.asList(
+                DS.C, 
                 DS.C, DS.C, DS.C
             ));
         if (amountOfDoorsPassed == 1) {
-            return new DS[]{DS.OPEN};
+            doorStates.set(1, DS.OPEN);
+            return doorStates.subList(1, 2).toArray();
         }
         if (amountOfDoorsPassed == 2) {
             return new DS[]{DS.OPEN, DS.C};

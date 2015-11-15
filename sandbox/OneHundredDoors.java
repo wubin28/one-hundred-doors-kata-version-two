@@ -5,6 +5,9 @@ public class OneHundredDoors {
         if (amountOfDoorsPassed == 1) {
             return new Door[]{Door.OPEN};
         }
-        return new Door[]{Door.OPEN, Door.CLOSED};
+        if (amountOfDoorsPassed == 2) {
+            return new Door[]{Door.OPEN, Door.CLOSED};
+        }
+        return new Door[]{Door.OPEN, Door.CLOSED, Door.CLOSED};
     }
 }

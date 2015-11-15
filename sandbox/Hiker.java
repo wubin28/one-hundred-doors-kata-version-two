@@ -2,6 +2,6 @@
 public class Hiker {
 
     public static int answer() {
-        return 54;
+        return 42;
     }
 }

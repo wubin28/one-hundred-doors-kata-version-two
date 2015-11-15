@@ -1,6 +1,7 @@
-OneHundredDoors.java:35: error: cannot find symbol
-        return result.toArray(new DS[amountOfDoorsPassed]);
-               ^
-  symbol:   variable result
-  location: class OneHundredDoors
-1 error
+OneHundredDoors.java:29: error: variable result is already defined in method doorStatesAfterPassingDoors(int)
+            List<DS> result = doorStates.subList(1, 3);
+                     ^
+OneHundredDoors.java:34: error: variable result is already defined in method doorStatesAfterPassingDoors(int)
+            List<DS> result = doorStates.subList(1, 4);
+                     ^
+2 errors

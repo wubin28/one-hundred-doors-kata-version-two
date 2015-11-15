@@ -18,10 +18,11 @@ public class OneHundredDoors {
                 DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C,
                 DS.C, DS.C, DS.C, DS.C, DS.C,         DS.C, DS.C, DS.C, DS.C, DS.C
             ));
+        List<DS> result = null;
 
         if (amountOfDoorsPassed == 1) {
             doorStates.set(1, DS.OPEN);
-            List<DS> result = doorStates.subList(1, 2);
+            result = doorStates.subList(1, 2);
         } else if (amountOfDoorsPassed == 2) {
             doorStates.set(1, DS.OPEN);
             doorStates.set(2, DS.C);

@@ -1,16 +1,6 @@
-OneHundredDoors.java:6: error: cannot find symbol
-        List<Door> doorStates = new ArrayList<Door>(Arrays.asList(
-        ^
-  symbol:   class List
-  location: class OneHundredDoors
-OneHundredDoors.java:6: error: cannot find symbol
-        List<Door> doorStates = new ArrayList<Door>(Arrays.asList(
-                                    ^
-  symbol:   class ArrayList
-  location: class OneHundredDoors
-OneHundredDoors.java:6: error: cannot find symbol
-        List<Door> doorStates = new ArrayList<Door>(Arrays.asList(
-                                                    ^
-  symbol:   variable Arrays
-  location: class OneHundredDoors
-3 errors
+JUnit version 4.11-SNAPSHOT-20120416-1530
+...
+Time: 0.031
+
+OK (3 tests)
+

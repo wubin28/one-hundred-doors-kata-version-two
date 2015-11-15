@@ -33,6 +33,26 @@ public class OneHundredDoorsTest {
         assertArrayEquals(new DS[]{DS.OPEN, DS.C, DS.C}, oneHundredDoors.doorStatesAfterPassingDoors(3));
     }
 
-    // TODO: if_there_are_100_doors_to_pass_the_state_of_doors_should_be_all_right
+    @Test
+    public void if_there_are_100_doors_to_pass_the_state_of_doors_should_be_all_right() {
+        // Given
+        OneHundredDoors oneHundredDoors = new OneHundredDoors();
+
+        // When
+        // Then
+        assertArrayEquals(
+            new DS[]{
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C,
+                DS.OPEN, DS.C, DS.C, DS.C, DS.C,        DS.C, DS.C, DS.C, DS.C, DS.C
+            }, oneHundredDoors.doorStatesAfterPassingDoors(100));
+    }
 
 }

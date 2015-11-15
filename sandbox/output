@@ -1,8 +1,10 @@
-OneHundredDoors.java:5: error: incompatible types: Door cannot be converted to Door[]
-        return Door.OPEN;
-                   ^
 OneHundredDoorsTest.java:13: warning: [deprecation] assertEquals(Object[],Object[]) in Assert has been deprecated
         assertEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
         ^
-1 error
 1 warning
+JUnit version 4.11-SNAPSHOT-20120416-1530
+.
+Time: 0.029
+
+OK (1 test)
+

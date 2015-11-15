@@ -2,6 +2,6 @@
 public class OneHundredDoors {
 
     public Door[] doorStatesAfterPassingDoors(int amountOfDoorsPassed) {
-        return Door.OPEN;
+        return new Door[]{Door.OPEN};
     }
 }

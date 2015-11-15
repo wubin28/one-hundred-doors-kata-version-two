@@ -10,7 +10,7 @@ public class OneHundredDoorsTest {
 
         // When
         // Then
-        assertArrayEquals(new Door[]{Door.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
+        assertArrayEquals(new DS[]{DS.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
     }
 
     @Test
@@ -20,7 +20,7 @@ public class OneHundredDoorsTest {
 
         // When
         // Then
-        assertArrayEquals(new Door[]{Door.OPEN, Door.CLOSED}, oneHundredDoors.doorStatesAfterPassingDoors(2));
+        assertArrayEquals(new DS[]{DS.OPEN, DS.C}, oneHundredDoors.doorStatesAfterPassingDoors(2));
     }
 
     @Test
@@ -30,7 +30,7 @@ public class OneHundredDoorsTest {
 
         // When
         // Then
-        assertArrayEquals(new Door[]{Door.OPEN, Door.CLOSED, Door.CLOSED}, oneHundredDoors.doorStatesAfterPassingDoors(3));
+        assertArrayEquals(new Door[]{DS.OPEN, DS.C, DS.C}, oneHundredDoors.doorStatesAfterPassingDoors(3));
     }
 
     // TODO: if_there_are_100_doors_to_pass_the_state_of_doors_should_be_all_right

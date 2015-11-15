@@ -4,17 +4,16 @@ import java.util.Arrays;
 
 public class OneHundredDoors {
 
-    public Door[] doorStatesAfterPassingDoors(int amountOfDoorsPassed) {
-        // TODO: Change the name of Door to DoorState
-        List<Door> doorStates = new ArrayList<Door>(Arrays.asList(
-                Door.CLOSED, Door.CLOSED, Door.CLOSED
+    public DS[] doorStatesAfterPassingDoors(int amountOfDoorsPassed) {
+        List<DS> doorStates = new ArrayList<DS>(Arrays.asList(
+                DS.C, DS.C, DS.C
             ));
         if (amountOfDoorsPassed == 1) {
-            return new Door[]{Door.OPEN};
+            return new DS[]{DS.OPEN};
         }
         if (amountOfDoorsPassed == 2) {
-            return new Door[]{Door.OPEN, Door.CLOSED};
+            return new DS[]{DS.OPEN, DS.C};
         }
-        return new Door[]{Door.OPEN, Door.CLOSED, Door.CLOSED};
+        return new DS[]{DS.OPEN, DS.C, DS.C};
     }
 }

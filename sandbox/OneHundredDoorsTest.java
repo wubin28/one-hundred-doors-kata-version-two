@@ -23,7 +23,16 @@ public class OneHundredDoorsTest {
         assertArrayEquals(new Door[]{Door.OPEN, Door.CLOSED}, oneHundredDoors.doorStatesAfterPassingDoors(2));
     }
 
-    // TODO: if_there_are_3_doors_to_pass_the_state_of_doors_should_be_OPEN_CLOSED_CLOSED
+    @Test
+    public void if_there_are_3_doors_to_pass_the_state_of_doors_should_be_OPEN_CLOSED_CLOSED() {
+        // Given
+        OneHundredDoors oneHundredDoors = new OneHundredDoors();
+
+        // When
+        // Then
+        assertArrayEquals(new Door[]{Door.OPEN, Door.CLOSED, Door.CLOSED}, oneHundredDoors.doorStatesAfterPassingDoors(3));
+    }
+
     // TODO: if_there_are_100_doors_to_pass_the_state_of_doors_should_be_all_right
 
 }

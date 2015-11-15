@@ -1,6 +1,16 @@
-JUnit version 4.11-SNAPSHOT-20120416-1530
-.
-Time: 0.061
-
-OK (1 test)
-
+OneHundredDoorsTest.java:11: error: cannot find symbol
+        assertEquals(new D[]{D.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
+                         ^
+  symbol:   class D
+  location: class OneHundredDoorsTest
+OneHundredDoorsTest.java:11: error: cannot find symbol
+        assertEquals(new D[]{D.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
+                             ^
+  symbol:   variable D
+  location: class OneHundredDoorsTest
+OneHundredDoorsTest.java:11: error: cannot find symbol
+        assertEquals(new D[]{D.OPEN}, oneHundredDoors.doorStatesAfterPassingDoors(1));
+                                      ^
+  symbol:   variable oneHundredDoors
+  location: class OneHundredDoorsTest
+3 errors
